@@ -1,0 +1,13 @@
+#Bts_img{
+  max-width:100%;
+  margin:10px auto;
+	display:block;
+    width: 600px;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    margin: 0 40px;
+}
